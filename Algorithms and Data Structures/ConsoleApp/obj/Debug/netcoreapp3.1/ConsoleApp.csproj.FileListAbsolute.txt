@@ -1,0 +1,10 @@
+D:\PluralsightGIT\Algorithms and Data Structures\Algorithms and Data Structures\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+D:\PluralsightGIT\Algorithms and Data Structures\Algorithms and Data Structures\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+D:\PluralsightGIT\Algorithms and Data Structures\Algorithms and Data Structures\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+D:\PluralsightGIT\Algorithms and Data Structures\Algorithms and Data Structures\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+D:\PluralsightGIT\Algorithms and Data Structures\Algorithms and Data Structures\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+D:\PluralsightGIT\Algorithms and Data Structures\Algorithms and Data Structures\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+D:\PluralsightGIT\Algorithms and Data Structures\Algorithms and Data Structures\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+D:\PluralsightGIT\Algorithms and Data Structures\Algorithms and Data Structures\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+D:\PluralsightGIT\Algorithms and Data Structures\Algorithms and Data Structures\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+D:\PluralsightGIT\Algorithms and Data Structures\Algorithms and Data Structures\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
